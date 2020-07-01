@@ -1,0 +1,2 @@
+include ':MundiLiveClient'
+rootProject.name = "MundiLive"
